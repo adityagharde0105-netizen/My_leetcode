@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0035-search-insert-position) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
