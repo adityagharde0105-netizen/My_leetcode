@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
