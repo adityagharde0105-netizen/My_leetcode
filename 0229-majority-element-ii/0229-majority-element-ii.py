@@ -14,6 +14,6 @@ class Solution:
         for num in freq:
             if freq[num] > len(nums)// 3:
                 answer.append(num)
-
+                
         return answer
         
