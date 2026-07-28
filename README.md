@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/2404-most-frequent-even-element) |
 ## Math
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -63,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/2404-most-frequent-even-element) |
 ## Tree
@@ -118,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
