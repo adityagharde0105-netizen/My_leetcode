@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0242-valid-anagram) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityagharde0105-netizen/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
