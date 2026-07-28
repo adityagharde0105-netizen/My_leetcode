@@ -10,10 +10,9 @@ class Solution:
                 freq[num] = 1
         
         answer = []
-        n = len(nums)
 
         for num in freq:
-            if freq[num] > n // 3:
+            if freq[num] > len(nums)// 3:
                 answer.append(num)
 
         return answer
